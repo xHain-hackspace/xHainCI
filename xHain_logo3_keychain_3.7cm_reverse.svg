@@ -12,7 +12,7 @@
    viewBox="0 0 215.43306 215.43306"
    version="1.2"
    id="svg227"
-   sodipodi:docname="xHain_logo3_keychain_3.7cm.svg"
+   sodipodi:docname="xHain_logo3_keychain_3.7cm_reverse.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata233">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,14 +42,15 @@
      id="namedview229"
      showgrid="false"
      inkscape:zoom="3.9890763"
-     inkscape:cx="65.109175"
-     inkscape:cy="258.79518"
+     inkscape:cx="145.84064"
+     inkscape:cy="198.63088"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg227" />
   <g
-     id="g854">
+     id="g4573"
+     transform="matrix(-1,0,0,1,107.60166,0)">
     <g
        id="g4582">
       <path
