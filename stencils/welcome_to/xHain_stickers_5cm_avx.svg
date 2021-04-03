@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50mm"
+   height="50mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="xHain_stickers_5cm_avx.svg"
+   inkscape:export-filename="/home/ku3i/piraten/Gestaltung/hackspace/xHain_logo3_rev2_large.png"
+   inkscape:export-xdpi="1368.9301"
+   inkscape:export-ydpi="1368.9301">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6788118"
+     inkscape:cx="163.32977"
+     inkscape:cy="110.18824"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS"
+       style="overflow:visible">
+      <path
+         id="path3828"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4395"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4397"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-0"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4427"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4429"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4427-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4429-9"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-21"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4474"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4476"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-36"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4518"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-11"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-58"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4954"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4956"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-3"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5024"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5026"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-34"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-16"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5056"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5058"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4518-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5088"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5090"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4518-55"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5137"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5139"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-4"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5169"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5171"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3828-66"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5220"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSv"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSv"
+       style="overflow:visible">
+      <path
+         id="path5753"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSs"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSs"
+       style="overflow:visible">
+      <path
+         id="path5756"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSk"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSk"
+       style="overflow:visible">
+      <path
+         id="path5759"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSK"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSK"
+       style="overflow:visible">
+      <path
+         id="path5762"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSQ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSQ"
+       style="overflow:visible">
+      <path
+         id="path5765"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSg"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSg"
+       style="overflow:visible">
+      <path
+         id="path5768"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516J"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516J"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5771"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516P"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516P"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5774"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSC"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSC"
+       style="overflow:visible">
+      <path
+         id="path5777"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSL"
+       style="overflow:visible">
+      <path
+         id="path5780"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSf"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSf"
+       style="overflow:visible">
+      <path
+         id="path5783"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS7"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS7"
+       style="overflow:visible">
+      <path
+         id="path5786"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSS"
+       style="overflow:visible">
+      <path
+         id="path5789"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSy"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSy"
+       style="overflow:visible">
+      <path
+         id="path5792"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516C"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516C"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5795"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker45162"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker45162"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5798"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSG"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSG"
+       style="overflow:visible">
+      <path
+         id="path5801"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS5"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS5"
+       style="overflow:visible">
+      <path
+         id="path5804"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSsA"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSsA"
+       style="overflow:visible">
+      <path
+         id="path5807"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSLd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSLd"
+       style="overflow:visible">
+      <path
+         id="path5810"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSd"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSd"
+       style="overflow:visible">
+      <path
+         id="path5813"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSyI"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSyI"
+       style="overflow:visible">
+      <path
+         id="path5816"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516y"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516y"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5819"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516I"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516I"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5822"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218b"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218b"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5825"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218X"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218X"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5828"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#858585;fill-rule:evenodd;stroke:#858585;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSQL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSQL"
+       style="overflow:visible">
+      <path
+         id="path6109"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSgb"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSgb"
+       style="overflow:visible">
+      <path
+         id="path6112"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516J6"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516J6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6115"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516Pl"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516Pl"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6118"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSSB"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSSB"
+       style="overflow:visible">
+      <path
+         id="path6121"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSyD"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSyD"
+       style="overflow:visible">
+      <path
+         id="path6124"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516Ct"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516Ct"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6127"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker451623"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker451623"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6130"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516yb"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516yb"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6133"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516IS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516IS"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6136"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSsAi"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSsAi"
+       style="overflow:visible">
+      <path
+         id="path6139"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSLdG"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSLdG"
+       style="overflow:visible">
+      <path
+         id="path6142"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSd7"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSd7"
+       style="overflow:visible">
+      <path
+         id="path6145"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSyIp"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSyIp"
+       style="overflow:visible">
+      <path
+         id="path6148"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSvS"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSvS"
+       style="overflow:visible">
+      <path
+         id="path6151"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSsJ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSsJ"
+       style="overflow:visible">
+      <path
+         id="path6154"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSfb"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSfb"
+       style="overflow:visible">
+      <path
+         id="path6157"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS7T"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS7T"
+       style="overflow:visible">
+      <path
+         id="path6160"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSko"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSko"
+       style="overflow:visible">
+      <path
+         id="path6163"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSKZ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSKZ"
+       style="overflow:visible">
+      <path
+         id="path6166"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSCa"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSCa"
+       style="overflow:visible">
+      <path
+         id="path6169"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSLi"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSLi"
+       style="overflow:visible">
+      <path
+         id="path6172"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218bQ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218bQ"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218XM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218XM"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6178"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSGn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSGn"
+       style="overflow:visible">
+      <path
+         id="path6181"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS5R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS5R"
+       style="overflow:visible">
+      <path
+         id="path6184"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSd7"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSd7-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6145-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSyIp"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSyIp-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6148-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSGn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSGn-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6181-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS5R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS5R-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6184-9"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218bQ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218bQ-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-9"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218XM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218XM-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6178-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218bQ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218bQ-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-95"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218XM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218XM-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6178-29"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotSGn"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotSGn-08"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6181-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS5R"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotS5R-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6184-1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker4516Ct"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4516Ct-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6127-3"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker451623"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker451623-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6130-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218bQ"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218bQ-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6175-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="marker5218XM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5218XM-86"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6178-7"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
+    </marker>
+    <circle
+       transform="matrix(0.8755829,0,0,0.8755829,152.4506,-680.83707)"
+       id="path6572"
+       style="fill:none;stroke:none"
+       cx="675.71429"
+       cy="777.58148"
+       r="584.28571" />
+    <circle
+       transform="matrix(-1.1162727,-0.04357729,-0.04357729,1.1162727,1532.2608,-838.54723)"
+       id="path6572-9"
+       style="fill:none;stroke:none"
+       cx="675.71429"
+       cy="777.58148"
+       r="584.28571" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-783.07098)">
+    <path
+       id="path1741"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="M 94.345703 0 C 46.460207 0.0125 5.4170012 36.312053 0.48828125 84.970703 C -4.7690389 136.87331 33.060311 183.23099 84.962891 188.48828 C 136.86551 193.74565 183.23097 155.91439 188.48828 104.01172 C 193.74562 52.109069 155.90843 5.7514606 104.00586 0.49414062 C 100.76288 0.16565063 97.539043 -0.00083 94.345703 0 z M 90.667969 7.1464844 L 101.35938 7.2949219 C 101.64645 7.2988819 101.82236 7.478545 101.81836 7.765625 L 101.7832 10.322266 C 101.77924 10.609346 101.59763 10.78525 101.31055 10.78125 L 94.449219 10.685547 C 94.162137 10.681587 93.980564 10.857451 93.976562 11.144531 L 93.941406 13.701172 C 93.937442 13.988252 94.113309 14.167875 94.400391 14.171875 L 100.0332 14.25 C 100.32028 14.25396 100.49423 14.433623 100.49023 14.720703 L 100.45508 17.277344 C 100.45112 17.564434 100.27146 17.740328 99.984375 17.736328 L 94.351562 17.658203 C 94.064481 17.654243 93.884859 17.828144 93.880859 18.115234 L 93.84375 20.808594 C 93.839786 21.095674 94.015652 21.27725 94.302734 21.28125 L 101.16406 21.375 C 101.45115 21.37896 101.62705 21.558623 101.62305 21.845703 L 101.58789 24.402344 C 101.58392 24.689424 101.40427 24.865328 101.11719 24.861328 L 90.425781 24.712891 C 90.138699 24.708921 89.96475 24.529267 89.96875 24.242188 L 90.197266 7.6054688 C 90.20123 7.3183887 90.380886 7.1424844 90.667969 7.1464844 z M 80.976562 7.7890625 C 81.157938 7.8092722 81.291708 7.9336356 81.34375 8.1425781 L 85.398438 24.419922 C 85.467831 24.698522 85.339144 24.914975 85.060547 24.984375 L 82.314453 25.667969 C 82.035856 25.737359 81.81939 25.608668 81.75 25.330078 L 80.623047 20.804688 C 80.018327 18.376917 79.671116 15.505305 79.634766 15.359375 L 79.527344 15.386719 C 79.543866 15.453049 79.476884 17.554449 79.330078 18.605469 L 78.445312 24.052734 C 78.418634 24.228454 78.279482 24.348231 78.09375 24.394531 L 75.998047 24.916016 C 75.75925 24.975496 75.579994 24.935237 75.470703 24.779297 L 72.201172 20.310547 C 71.57852 19.451187 70.49382 17.579838 70.4375 17.523438 L 70.371094 17.541016 C 70.407443 17.686946 71.475063 20.393021 72.099609 22.900391 L 73.234375 27.451172 C 73.303769 27.729772 73.173128 27.944272 72.894531 28.013672 L 70.095703 28.710938 C 69.817106 28.780327 69.602593 28.651647 69.533203 28.373047 L 65.478516 12.09375 C 65.409122 11.81515 65.53781 11.60065 65.816406 11.53125 L 68.828125 10.78125 C 69.027123 10.73168 69.196146 10.788559 69.298828 10.917969 L 75.154297 18.533203 C 75.475561 18.974493 75.727775 19.475453 75.734375 19.501953 L 75.867188 19.46875 C 75.860576 19.44222 75.863718 18.833864 75.923828 18.339844 L 77.431641 8.8925781 C 77.448358 8.7334281 77.584205 8.6003814 77.783203 8.5507812 L 80.78125 7.8027344 C 80.850899 7.7853869 80.916105 7.7823259 80.976562 7.7890625 z M 114.91016 9.4609375 C 114.9709 9.4576038 115.0369 9.4651031 115.10547 9.4863281 L 125.50195 12.705078 C 125.77621 12.789998 125.89349 13.012839 125.80859 13.287109 L 125.05078 15.728516 C 124.96586 16.002776 124.74497 16.120056 124.4707 16.035156 L 121.54492 15.130859 C 121.27066 15.045939 121.04779 15.16324 120.96289 15.4375 L 117.07227 28 C 116.98735 28.27426 116.76646 28.391541 116.49219 28.306641 L 113.72266 27.449219 C 113.4484 27.364309 113.33112 27.143401 113.41602 26.869141 L 117.30664 14.304688 C 117.39156 14.030426 117.27427 13.807556 117 13.722656 L 114.07422 12.816406 C 113.79997 12.731486 113.68268 12.510598 113.76758 12.236328 L 114.52344 9.7929688 C 114.58713 9.5872737 114.72794 9.4709387 114.91016 9.4609375 z M 55.546875 16.761719 C 57.212331 16.750621 58.521528 17.670028 59.474609 19.349609 L 63.542969 26.519531 C 65.007171 29.099831 64.33782 31.742805 61.103516 33.578125 L 59.402344 34.542969 C 56.049131 36.445759 53.616727 35.704898 52.091797 33.017578 L 48.023438 25.847656 C 46.565983 23.279236 47.228586 20.624384 50.462891 18.789062 L 52.162109 17.824219 C 53.419564 17.110673 54.547601 16.768377 55.546875 16.761719 z M 134.15625 17.181641 C 135.16732 17.184859 136.28955 17.513621 137.49609 18.212891 L 139.18945 19.193359 C 142.52518 21.126629 143.11381 23.602071 141.56445 26.275391 L 137.42969 33.408203 C 135.94203 35.975063 133.32292 36.731907 130.10547 34.867188 L 128.41406 33.886719 C 125.07833 31.953449 124.4897 29.478007 126.03906 26.804688 L 130.17188 19.671875 C 131.09737 18.074987 132.47113 17.176277 134.15625 17.181641 z M 54.935547 20.607422 C 54.595627 20.577318 54.235079 20.655575 53.882812 20.855469 L 52.183594 21.820312 C 51.232328 22.360103 51.055374 23.434533 51.554688 24.314453 L 55.21875 30.771484 C 55.751801 31.710854 56.742266 32.044769 57.681641 31.511719 L 59.382812 30.546875 C 60.334078 30.007075 60.515827 28.944554 60.009766 28.052734 L 56.347656 21.595703 C 56.0145 21.008591 55.50208 20.657594 54.935547 20.607422 z M 134.68555 20.984375 C 134.11213 21.041846 133.59637 21.400178 133.2793 21.947266 L 129.55664 28.369141 C 129.01505 29.303611 129.22763 30.327551 130.16211 30.869141 L 131.85352 31.849609 C 132.79983 32.398049 133.8081 32.019973 134.32227 31.132812 L 138.04492 24.708984 C 138.58651 23.774504 138.37393 22.750574 137.43945 22.208984 L 135.74805 21.230469 C 135.39318 21.024804 135.0296 20.949892 134.68555 20.984375 z M 39.619141 27.9375 C 40.439198 27.944905 41.242334 28.171394 41.986328 28.619141 C 42.242668 28.772271 42.270022 28.801528 42.326172 28.861328 C 42.410402 28.951028 42.435676 29.078289 42.353516 29.230469 L 41.158203 31.589844 C 41.127086 31.656574 41.086939 31.714919 41.037109 31.761719 C 40.917513 31.874019 40.701937 31.924966 40.511719 31.822266 C 39.647289 31.321166 38.81178 31.450168 37.974609 32.236328 L 36.539062 33.583984 C 35.741761 34.332714 35.825005 35.416797 36.517578 36.154297 L 41.599609 41.566406 C 42.338978 42.353746 43.38063 42.444448 44.167969 41.705078 L 45.601562 40.357422 C 46.438733 39.571252 46.608492 38.793762 46.173828 37.851562 C 46.083277 37.655273 46.147983 37.444341 46.267578 37.332031 C 46.31741 37.285241 46.376762 37.249556 46.445312 37.222656 L 48.876953 36.175781 C 49.033985 36.103351 49.159911 36.136863 49.244141 36.226562 C 49.300296 36.286353 49.42185 36.416201 49.558594 36.681641 C 50.625677 38.736671 49.991712 41.017663 47.978516 42.908203 L 46.554688 44.248047 C 43.744188 46.887307 41.205001 46.738718 39.089844 44.486328 L 33.445312 38.476562 C 31.414388 36.313873 31.441507 33.586696 34.152344 31.041016 L 35.587891 29.693359 C 36.839909 28.517622 38.252379 27.925158 39.619141 27.9375 z M 154.44336 30.615234 C 154.50362 30.620352 154.56523 30.646811 154.61133 30.697266 L 156.99023 33.300781 C 157.14707 33.472331 157.18851 33.61923 157.13281 33.78125 L 155.51172 38.005859 C 155.34994 38.376009 154.81183 39.570048 154.59961 39.986328 L 154.65625 40.046875 C 155.40734 39.267705 156.20261 39.003858 158.10742 38.392578 L 160.71289 37.697266 C 160.88933 37.647116 161.04078 37.729814 161.16992 37.871094 L 163.66992 40.607422 C 163.77139 40.718422 163.735 40.881278 163.6543 40.955078 C 163.60384 41.001238 163.53364 41.0449 163.49414 41.0625 L 154.13281 43.304688 C 154.05469 43.320586 153.97685 43.335791 153.90625 43.400391 C 153.8356 43.464971 153.82057 43.550784 153.79688 43.646484 L 150.94141 52.316406 C 150.91771 52.412106 150.8962 52.449994 150.8457 52.496094 C 150.7347 52.597564 150.58227 52.531905 150.45312 52.390625 L 148.03711 49.746094 C 147.83419 49.524084 147.83207 49.340081 147.91797 49.150391 L 149.59766 44.949219 C 149.75943 44.579069 150.19207 43.533458 150.4043 43.117188 L 150.34961 43.056641 C 149.77441 43.582421 148.50061 44.134966 146.98242 44.541016 L 144.35742 45.255859 C 144.15158 45.314359 143.9588 45.286463 143.75586 45.064453 L 141.37695 42.460938 C 141.22935 42.299477 141.21517 42.183491 141.32617 42.082031 C 141.37663 42.035931 141.4551 42.000275 141.5332 41.984375 L 150.99219 39.728516 C 151.09973 39.704336 151.1702 39.659381 151.2207 39.613281 C 151.29133 39.548711 151.3229 39.480697 151.3457 39.404297 L 154.16992 30.822266 C 154.18175 30.774406 154.2226 30.717409 154.2832 30.662109 C 154.32357 30.625184 154.3831 30.610117 154.44336 30.615234 z M 94.136719 31.089844 L 94.138672 31.089844 L 94.224609 31.089844 C 128.99819 31.089654 157.16425 59.2577 157.16406 94.03125 C 157.1643 113.75698 147.91972 132.34121 132.18555 144.23828 L 131.51562 144.74414 L 134.08789 149.76367 L 131.94727 154.85742 L 128.66797 156.66992 L 123.04883 155.32422 L 120.71484 151.13477 L 119.88086 151.50781 C 111.80735 155.11171 103.06597 156.97281 94.224609 156.97266 C 84.147153 156.97299 74.215488 154.55562 65.267578 149.91992 L 64.820312 149.6875 L 50.052734 156.92578 L 44.328125 156.92383 L 39.193359 151.25391 L 39.142578 144.49219 L 48.550781 137.35547 L 47.810547 136.54688 C 37.177447 124.94021 31.28121 109.77151 31.28125 94.03125 C 31.28103 59.29121 59.396873 31.137094 94.136719 31.089844 z M 102.32227 35.976562 C 92.118325 35.827323 83.657053 44.04604 83.507812 54.25 C 83.424312 59.96006 85.963537 65.121934 90.001953 68.589844 L 86.689453 68.589844 C 84.924843 68.590124 83.494411 70.020546 83.494141 71.785156 L 83.494141 76.277344 L 62.402344 65.158203 C 61.932874 64.911273 61.409326 64.785086 60.878906 64.791016 C 59.128036 64.809516 57.718047 66.233415 57.716797 67.984375 L 57.683594 109.36914 C 57.681594 111.79514 60.277793 113.33827 62.408203 112.17773 L 83.494141 100.67969 L 83.494141 103.8418 C 83.494411 105.60641 84.924843 107.03683 86.689453 107.03711 L 105.14648 107.03711 C 104.74665 107.08591 104.35965 107.20979 104.00586 107.40234 C 102.45588 108.24594 101.88314 110.18625 102.72656 111.73633 L 109.81836 124.77344 L 95.890625 149.19531 C 95.017088 150.72767 95.550348 152.67801 97.082031 153.55273 C 98.61483 154.42759 100.56664 153.89418 101.44141 152.36133 L 113.41016 131.375 L 124.49219 151.74414 C 125.33574 153.29297 127.2746 153.86554 128.82422 153.02344 C 130.37492 152.18053 130.94858 150.24004 130.10547 148.68945 L 117.13477 124.8457 L 124.70508 111.57031 C 125.57995 110.03751 125.04652 108.08572 123.51367 107.21094 C 123.39888 107.14574 123.28017 107.08765 123.1582 107.03711 L 140.38672 107.03711 C 142.15209 107.03791 143.5837 105.60717 143.58398 103.8418 L 143.58398 71.785156 C 143.5837 70.019786 142.15209 68.589044 140.38672 68.589844 L 136.95703 68.589844 C 138.8997 66.446804 140.11292 63.630836 140.1582 60.535156 C 140.2571 53.775916 134.79048 48.145735 128.03125 48.046875 C 125.08201 48.003775 122.3488 49.021017 120.19531 50.742188 C 118.45775 42.442958 111.13669 36.105482 102.32227 35.976562 z M 102.23047 42.367188 C 108.98084 42.465888 114.30576 47.948839 114.20703 54.699219 C 114.10833 61.449589 108.62538 66.772558 101.875 66.673828 C 95.124629 66.575128 89.799708 61.092177 89.898438 54.341797 C 89.997137 47.591427 95.480088 42.268467 102.23047 42.367188 z M 21.517578 46.556641 C 21.629172 46.535422 21.750458 46.563771 21.869141 46.644531 L 32.855469 54.121094 C 33.092835 54.282624 33.34043 54.235417 33.501953 53.998047 L 37.078125 48.742188 C 37.239648 48.504827 37.487244 48.457621 37.724609 48.619141 L 39.837891 50.056641 C 40.075256 50.218161 40.122461 50.465755 39.960938 50.703125 L 34.230469 59.123047 C 34.068947 59.360407 33.821349 59.407614 33.583984 59.246094 L 19.714844 49.808594 C 19.477478 49.647074 19.430275 49.399479 19.591797 49.162109 L 21.222656 46.767578 C 21.303417 46.648893 21.405984 46.577859 21.517578 46.556641 z M 167.75781 46.808594 C 167.9384 46.782235 168.09989 46.869624 168.20312 47.058594 L 169.5918 49.601562 C 169.72945 49.853524 169.66017 50.094772 169.4082 50.232422 L 164.16406 53.097656 C 163.91209 53.235306 163.84087 53.476556 163.97852 53.728516 L 166.37109 58.107422 C 166.50874 58.359392 166.74999 58.430619 167.00195 58.292969 L 172.24609 55.427734 C 172.49805 55.290074 172.7393 55.361321 172.87695 55.613281 L 174.26562 58.15625 C 174.40327 58.40821 174.33399 58.649459 174.08203 58.787109 L 159.35938 66.830078 C 159.10742 66.967728 158.86617 66.896491 158.72852 66.644531 L 157.33984 64.101562 C 157.20219 63.849602 157.27148 63.608363 157.52344 63.470703 L 163.12695 60.410156 C 163.37892 60.272506 163.45015 60.031257 163.3125 59.779297 L 160.91992 55.400391 C 160.78227 55.148421 160.54102 55.077194 160.28906 55.214844 L 154.68555 58.275391 C 154.43359 58.413041 154.19235 58.341804 154.05469 58.089844 L 152.66602 55.546875 C 152.52837 55.294915 152.5996 55.053666 152.85156 54.916016 L 167.57227 46.873047 C 167.63526 46.838634 167.69762 46.81738 167.75781 46.808594 z M 127.9375 54.4375 C 131.24315 54.4859 133.81595 57.135746 133.76758 60.441406 C 133.71928 63.747056 131.07128 66.319834 127.76562 66.271484 C 124.45996 66.223084 121.88721 63.575181 121.93555 60.269531 C 121.98385 56.963871 124.63184 54.38916 127.9375 54.4375 z M 15.992188 56.441406 C 16.052996 56.443102 16.116999 56.455642 16.183594 56.482422 L 18.556641 57.4375 C 18.822983 57.54462 18.921575 57.774636 18.814453 58.041016 L 16.253906 64.410156 C 16.146785 64.676536 16.245342 64.906552 16.511719 65.013672 L 18.882812 65.96875 C 19.149189 66.07588 19.381159 65.977317 19.488281 65.710938 L 21.589844 60.484375 C 21.696966 60.217535 21.926982 60.119433 22.193359 60.226562 L 24.566406 61.179688 C 24.832748 61.286808 24.931341 61.518776 24.824219 61.785156 L 22.722656 67.011719 C 22.615534 67.278099 22.714092 67.508114 22.980469 67.615234 L 25.478516 68.621094 C 25.744893 68.728214 25.976862 68.629661 26.083984 68.363281 L 28.644531 61.996094 C 28.751652 61.729254 28.98167 61.631151 29.248047 61.738281 L 31.621094 62.691406 C 31.887436 62.798526 31.986028 63.030495 31.878906 63.296875 L 27.890625 73.214844 C 27.783504 73.481684 27.551533 73.579776 27.285156 73.472656 L 11.847656 67.265625 C 11.581314 67.158505 11.482722 66.926536 11.589844 66.660156 L 15.580078 56.740234 C 15.66042 56.540097 15.80976 56.43632 15.992188 56.441406 z M 116.51953 64.994141 C 116.53583 64.993941 116.55216 64.993941 116.56836 64.994141 C 117.67194 64.993931 118.56662 65.888607 118.56641 66.992188 C 118.56656 67.358677 118.46587 67.71815 118.27539 68.03125 C 118.04225 68.38277 117.76562 68.589844 117.76562 68.589844 C 117.42006 68.848524 117.00001 68.988311 116.56836 68.988281 C 116.1367 68.988311 115.71665 68.848524 115.37109 68.589844 C 115.37109 68.589844 115.01016 68.334571 114.80664 67.931641 C 114.65198 67.642621 114.57082 67.319977 114.57031 66.992188 C 114.56978 65.907398 115.43506 65.020441 116.51953 64.994141 z M 61 66.169922 C 61.0163 66.169722 61.032528 66.169722 61.048828 66.169922 C 62.152408 66.169712 63.047085 67.064389 63.046875 68.167969 C 63.047085 69.271549 62.152408 70.166236 61.048828 70.166016 C 59.945248 70.166236 59.050561 69.271549 59.050781 68.167969 C 59.050251 67.083179 59.91553 66.196232 61 66.169922 z M 160.5332 69.558594 C 160.57633 69.561544 178.20117 70.150391 178.20117 70.150391 C 178.40017 70.155331 178.53649 70.303423 178.58789 70.501953 L 179.62695 74.511719 C 179.67838 74.710249 179.63055 74.906863 179.45898 75.007812 L 164.19922 84.144531 C 164.12669 84.191631 164.10025 84.198684 164.06055 84.208984 C 163.9282 84.243274 163.83851 84.16727 163.78711 83.96875 L 162.9375 80.685547 C 162.89978 80.539967 162.94044 80.431422 163.0625 80.357422 L 165.24414 79.126953 C 165.36624 79.052953 165.37562 78.981723 165.32422 78.783203 L 164.00391 73.6875 C 163.94905 73.47574 163.91021 73.428828 163.76758 73.423828 L 161.26367 73.408203 C 161.12103 73.402783 161.03039 73.327663 160.99609 73.195312 L 160.14844 69.925781 C 160.09701 69.727261 160.13718 69.604613 160.26953 69.570312 C 160.3357 69.553112 160.4602 69.549594 160.5332 69.558594 z M 140.15625 69.90625 C 140.17255 69.90605 140.18878 69.90605 140.20508 69.90625 C 141.30866 69.90603 142.20333 70.800717 142.20312 71.904297 C 142.20227 73.007107 141.3079 73.900611 140.20508 73.900391 C 139.10227 73.900601 138.20789 73.007107 138.20703 71.904297 C 138.2065 70.819507 139.07178 69.93255 140.15625 69.90625 z M 86.855469 69.925781 C 86.871069 69.925601 86.886744 69.925601 86.902344 69.925781 C 88.005924 69.925571 88.900601 70.820248 88.900391 71.923828 C 88.900601 73.027408 88.005924 73.922095 86.902344 73.921875 C 85.799524 73.921015 84.90603 73.026638 84.90625 71.923828 C 84.90572 70.839038 85.771009 69.952091 86.855469 69.925781 z M 64.103516 73.279297 L 83.445312 83.476562 L 83.447266 93.423828 L 64.078125 103.98828 L 64.103516 73.279297 z M 174.51758 73.435547 L 173.95703 73.509766 L 167.8418 73.455078 C 167.65944 73.459948 167.57111 73.552786 167.63281 73.791016 L 168.43945 76.902344 C 168.50116 77.140574 168.6273 77.191722 168.78906 77.107422 L 174.11133 74.105469 L 174.63867 73.898438 L 174.51758 73.435547 z M 8.8945312 74.859375 C 8.9353036 74.863875 9.0955615 74.921906 9.1484375 74.941406 L 25.578125 80.396484 C 25.777522 80.459564 25.868567 80.636219 25.841797 80.880859 L 25.517578 83.841797 C 25.492299 84.072847 25.351145 84.223194 25.183594 84.246094 L 18.603516 85.300781 C 17.231472 85.522001 14.895464 85.514176 13.087891 85.316406 L 13.076172 85.423828 C 14.506384 85.676588 15.466381 85.947708 16.21875 86.236328 L 24.582031 89.503906 C 24.766358 89.579086 24.872473 89.741698 24.845703 89.986328 L 24.537109 92.798828 C 24.51183 93.029868 24.370676 93.180225 24.203125 93.203125 L 7.5390625 94.927734 C 7.3715123 94.950734 6.7574071 95.034344 6.6894531 95.027344 C 6.5535453 95.012474 6.4972262 94.897229 6.5195312 94.693359 L 6.8730469 91.457031 C 6.8923777 91.280331 6.9685402 91.207612 7.1074219 91.195312 L 15.308594 90.537109 C 16.570633 90.441369 17.74493 90.392381 18.552734 90.425781 L 18.564453 90.316406 C 17.048234 90.095496 14.798538 89.532717 13.203125 88.904297 L 7.6386719 86.728516 C 7.5072248 86.672876 7.4048746 86.592296 7.4316406 86.347656 L 7.7382812 83.548828 C 7.7590991 83.358558 7.8381469 83.270041 7.9785156 83.244141 L 16.246094 81.974609 C 17.085332 81.846369 18.14793 81.812681 19.490234 81.863281 L 19.501953 81.753906 C 18.129285 81.603716 15.898668 81.126675 14.119141 80.546875 L 8.4765625 78.691406 C 8.3436287 78.649356 8.2878644 78.532394 8.3027344 78.396484 L 8.6582031 75.148438 C 8.6805079 74.944547 8.7586236 74.844475 8.8945312 74.859375 z M 89.884766 74.982422 L 137.19141 74.982422 L 137.19141 100.64648 L 89.884766 100.64648 L 89.884766 74.982422 z M 181.01367 85.701172 C 181.29988 85.678552 181.49107 85.840733 181.51367 86.126953 L 181.74219 89.017578 C 181.76481 89.303798 181.60263 89.494978 181.31641 89.517578 L 164.5918 90.837891 C 164.30559 90.860501 164.1144 90.698319 164.0918 90.412109 L 163.86523 87.521484 C 163.84261 87.235264 164.0048 87.044084 164.29102 87.021484 L 181.01367 85.701172 z M 164.96875 95.322266 L 181.65234 97.068359 C 181.93789 97.098239 182.09631 97.292575 182.06641 97.578125 L 181.78711 100.24414 C 181.76861 100.42091 181.68561 100.54839 181.55469 100.61719 L 171.57812 105.05859 C 171.00006 105.32801 170.20004 105.61644 170.01758 105.65234 L 170.00586 105.75977 C 171.34253 105.59703 173.55722 105.59506 175.09375 105.75586 L 180.68164 106.3418 C 180.96719 106.37168 181.1256 106.56601 181.0957 106.85156 L 180.79492 109.73438 C 180.76504 110.01993 180.56875 110.17834 180.2832 110.14844 L 163.59961 108.40234 C 163.31406 108.37246 163.15565 108.17813 163.18555 107.89258 L 163.46094 105.25391 C 163.47944 105.07714 163.54615 104.96084 163.7207 104.86914 L 173.35156 100.32227 C 173.97041 100.05711 174.55498 99.870953 174.60938 99.876953 L 174.61914 99.767578 C 173.82131 99.904018 171.91215 99.897347 170.13086 99.710938 L 164.57031 99.128906 C 164.28476 99.099026 164.12635 98.904691 164.15625 98.619141 L 164.45703 95.736328 C 164.48691 95.450778 164.6832 95.292366 164.96875 95.322266 z M 86.800781 101.71094 C 86.817081 101.71074 86.833309 101.71074 86.849609 101.71094 C 87.953199 101.71073 88.847876 102.6054 88.847656 103.70898 C 88.846786 104.8118 87.952429 105.70529 86.849609 105.70508 C 85.746799 105.70529 84.852423 104.8118 84.851562 103.70898 C 84.851033 102.6242 85.716311 101.73724 86.800781 101.71094 z M 140.15039 101.73438 L 140.15234 101.73438 C 140.16794 101.73419 140.18352 101.73419 140.19922 101.73438 C 141.3028 101.73416 142.19749 102.62884 142.19727 103.73242 C 142.19748 104.83599 141.30279 105.73068 140.19922 105.73047 C 139.09564 105.73069 138.20096 104.836 138.20117 103.73242 C 138.20064 102.64763 139.06592 101.76067 140.15039 101.73438 z M 105.92188 107.03711 L 120.70703 107.03711 C 120.05216 107.30805 119.50595 107.78899 119.1543 108.4043 L 113.54102 118.24219 L 108.3418 108.68164 C 107.84823 107.77469 106.94684 107.16212 105.92188 107.03711 z M 60.939453 107.24609 C 60.955753 107.24589 60.972081 107.24589 60.988281 107.24609 C 62.091851 107.24588 62.986538 108.14056 62.986328 109.24414 C 62.986548 110.34772 62.091861 111.2424 60.988281 111.24219 C 59.884701 111.2424 58.990014 110.34772 58.990234 109.24414 C 58.989704 108.15936 59.854993 107.27239 60.939453 107.24609 z M 121.87109 107.98438 C 121.88739 107.98418 121.90362 107.98418 121.91992 107.98438 C 123.0235 107.98415 123.91819 108.87884 123.91797 109.98242 C 123.91818 111.086 123.0235 111.98069 121.91992 111.98047 C 120.81634 111.98069 119.92166 111.086 119.92188 109.98242 C 119.92135 108.89763 120.78662 108.01067 121.87109 107.98438 z M 105.48828 108.18359 L 105.49023 108.18359 C 105.50583 108.18341 105.52151 108.18341 105.53711 108.18359 C 106.64068 108.18338 107.53537 109.07807 107.53516 110.18164 C 107.5343 111.28446 106.63993 112.17794 105.53711 112.17773 C 104.43429 112.17795 103.53992 111.28446 103.53906 110.18164 C 103.53853 109.09686 104.40382 108.20989 105.48828 108.18359 z M 21.654297 112.93164 C 21.694197 112.93464 21.729492 112.95407 21.763672 112.98438 C 21.797872 113.01458 21.831678 113.05687 21.867188 113.10742 C 21.938188 113.2084 22.014803 113.34674 22.095703 113.51367 C 22.257513 113.84752 22.437271 114.29024 22.613281 114.74023 C 22.789281 115.19022 22.961035 115.64737 23.109375 116.00781 C 23.183575 116.18803 23.251697 116.34457 23.310547 116.46289 C 23.369447 116.58121 23.424112 116.66275 23.451172 116.68555 C 23.478272 116.70835 23.568682 116.74736 23.695312 116.78516 C 23.821932 116.82296 23.987494 116.86396 24.177734 116.90625 C 24.558214 116.99085 25.038289 117.08309 25.511719 117.17969 C 25.985159 117.27629 26.452014 117.37802 26.808594 117.48047 C 26.986884 117.53167 27.136437 117.58207 27.248047 117.63477 C 27.303847 117.66117 27.351039 117.6883 27.386719 117.7168 C 27.422419 117.7453 27.447431 117.77565 27.457031 117.81445 C 27.467031 117.85325 27.457713 117.89366 27.439453 117.93555 C 27.421253 117.97745 27.392569 118.02285 27.355469 118.07227 C 27.281369 118.17097 27.172823 118.28553 27.039062 118.41406 C 26.771542 118.67112 26.406783 118.97871 26.033203 119.28516 C 25.659623 119.59161 25.277439 119.89793 24.980469 120.15039 C 24.831989 120.27663 24.705668 120.38992 24.611328 120.48242 C 24.517028 120.57492 24.454706 120.65079 24.441406 120.68359 C 24.428006 120.71639 24.418675 120.81516 24.421875 120.94727 C 24.424875 121.07937 24.438431 121.24936 24.457031 121.44336 C 24.494131 121.83137 24.553032 122.3148 24.607422 122.79492 C 24.661822 123.27504 24.711849 123.7503 24.724609 124.12109 C 24.730609 124.30648 24.728591 124.46545 24.712891 124.58789 C 24.704891 124.64909 24.693834 124.70144 24.677734 124.74414 C 24.661634 124.78684 24.639469 124.82265 24.605469 124.84375 C 24.571569 124.86485 24.531768 124.86728 24.486328 124.86328 C 24.440928 124.85928 24.388428 124.84617 24.330078 124.82617 C 24.213298 124.78617 24.06982 124.71836 23.90625 124.63086 C 23.5791 124.45587 23.174478 124.20201 22.767578 123.94141 C 22.360688 123.68082 21.951021 123.41339 21.619141 123.20898 C 21.453201 123.10678 21.306603 123.02008 21.189453 122.95898 C 21.072293 122.89788 20.980582 122.86433 20.945312 122.86133 C 20.910013 122.85933 20.814103 122.87993 20.689453 122.92383 C 20.564803 122.96773 20.407296 123.03177 20.228516 123.10938 C 19.870956 123.26454 19.428081 123.47177 18.988281 123.67188 C 18.548471 123.87198 18.112362 124.0647 17.763672 124.19141 C 17.589322 124.25481 17.437686 124.30122 17.316406 124.32422 C 17.255806 124.33602 17.20187 124.34184 17.15625 124.33984 C 17.11065 124.33784 17.071556 124.32843 17.041016 124.30273 C 17.010416 124.27703 16.994175 124.23993 16.984375 124.19531 C 16.974375 124.15071 16.971656 124.09682 16.972656 124.03516 C 16.974656 123.91174 16.994644 123.75488 17.027344 123.57227 C 17.092644 123.20707 17.207978 122.7429 17.330078 122.27539 C 17.452188 121.80789 17.580025 121.33583 17.671875 120.95703 C 17.717775 120.76764 17.755374 120.60101 17.777344 120.4707 C 17.799244 120.34039 17.803422 120.24328 17.794922 120.20898 C 17.785922 120.17468 17.73652 120.08938 17.65625 119.98438 C 17.57605 119.87937 17.466911 119.74958 17.337891 119.60352 C 17.079831 119.3114 16.744199 118.95605 16.417969 118.59961 C 16.091749 118.24317 15.773182 117.88622 15.544922 117.59375 C 15.430792 117.44751 15.34056 117.31723 15.28125 117.20898 C 15.25155 117.15488 15.228997 117.1065 15.216797 117.0625 C 15.204697 117.0185 15.201797 116.9784 15.216797 116.94141 C 15.231797 116.90431 15.263434 116.87662 15.302734 116.85352 C 15.342134 116.83032 15.390239 116.81117 15.449219 116.79297 C 15.567199 116.75657 15.724443 116.72657 15.908203 116.70117 C 16.275723 116.65047 16.752015 116.61618 17.234375 116.58789 C 17.716735 116.55959 18.2051 116.53751 18.59375 116.50781 C 18.78807 116.49301 18.957171 116.47643 19.087891 116.45703 C 19.218601 116.43763 19.31373 116.41128 19.34375 116.39258 C 19.37375 116.37388 19.438652 116.30018 19.513672 116.19141 C 19.588772 116.08266 19.678304 115.9374 19.777344 115.76953 C 19.975414 115.43387 20.211039 115.00635 20.449219 114.58594 C 20.687409 114.16554 20.927146 113.75278 21.134766 113.44531 C 21.238576 113.29158 21.335292 113.16412 21.419922 113.07422 C 21.462222 113.02932 21.500922 112.99382 21.539062 112.96875 C 21.577163 112.94365 21.614467 112.92864 21.654297 112.93164 z M 80.097656 116.42383 C 78.276926 116.42383 76.567561 116.89792 75.082031 117.72461 C 75.819591 121.88321 77.278294 125.31005 79.771484 127.67578 C 79.778484 127.68178 79.784216 127.68891 79.791016 127.69531 C 80.830816 128.73499 82.920641 130.58134 84.806641 132.16016 C 85.728551 132.93193 86.599056 133.6353 87.285156 134.16602 C 89.220952 132.2885 90.427734 129.66351 90.427734 126.75391 C 90.427734 121.04862 85.803536 116.42383 80.097656 116.42383 z M 73.171875 119.10352 C 71.084545 120.99369 69.765625 123.71631 69.765625 126.75391 C 69.765625 132.4592 74.391776 137.08594 80.097656 137.08594 C 82.103386 137.08594 83.966021 136.50271 85.550781 135.51367 C 84.905421 135.00486 84.212591 134.45259 83.431641 133.79883 C 81.522401 132.20056 79.453405 130.38482 78.296875 129.23047 C 78.296025 129.22947 78.297705 129.22756 78.296875 129.22656 C 75.587885 126.65477 74.018865 123.13409 73.171875 119.10352 z M 162.17383 127.05273 C 162.21363 127.05573 162.24903 127.07517 162.2832 127.10547 C 162.3174 127.13567 162.3512 127.17797 162.38672 127.22852 C 162.45772 127.3295 162.53433 127.46784 162.61523 127.63477 C 162.77703 127.96862 162.95485 128.41134 163.13086 128.86133 C 163.30687 129.31132 163.48056 129.76847 163.62891 130.12891 C 163.70311 130.30913 163.77119 130.46566 163.83008 130.58398 C 163.88888 130.7023 163.94165 130.78384 163.96875 130.80664 C 163.99585 130.82944 164.08627 130.86845 164.21289 130.90625 C 164.33952 130.94405 164.50507 130.98504 164.69531 131.02734 C 165.07578 131.11194 165.55587 131.20418 166.0293 131.30078 C 166.50273 131.39738 166.96959 131.49911 167.32617 131.60156 C 167.50446 131.65276 167.65598 131.70316 167.76758 131.75586 C 167.82338 131.78226 167.8686 131.80939 167.9043 131.83789 C 167.94 131.86639 167.96656 131.89675 167.97656 131.93555 C 167.98656 131.97435 167.9772 132.01475 167.95898 132.05664 C 167.94068 132.09854 167.912 132.14394 167.875 132.19336 C 167.8009 132.29206 167.69039 132.40663 167.55664 132.53516 C 167.28912 132.79222 166.92436 133.0998 166.55078 133.40625 C 166.1772 133.7127 165.79501 134.01902 165.49805 134.27148 C 165.34957 134.39772 165.22321 134.51102 165.12891 134.60352 C 165.03461 134.69602 164.97228 134.77189 164.95898 134.80469 C 164.94548 134.83749 164.93645 134.9343 164.93945 135.06641 C 164.94245 135.19851 164.95611 135.3685 164.97461 135.5625 C 165.01171 135.95051 165.07251 136.4359 165.12695 136.91602 C 165.18135 137.39614 165.22949 137.8714 165.24219 138.24219 C 165.24819 138.42758 165.24617 138.58654 165.23047 138.70898 C 165.22247 138.77018 165.21141 138.82253 165.19531 138.86523 C 165.17921 138.90793 165.1589 138.94374 165.125 138.96484 C 165.0911 138.98594 165.04931 138.98838 165.00391 138.98438 C 164.95851 138.98037 164.90611 138.96727 164.84766 138.94727 C 164.73087 138.90727 164.58739 138.83945 164.42383 138.75195 C 164.09668 138.57696 163.69206 138.3231 163.28516 138.0625 C 162.87827 137.80191 162.47055 137.53449 162.13867 137.33008 C 161.97273 137.22788 161.82419 137.14118 161.70703 137.08008 C 161.58988 137.01898 161.49819 136.98542 161.46289 136.98242 C 161.42759 136.98042 161.33363 137.00102 161.20898 137.04492 C 161.08433 137.08882 160.92487 137.15287 160.74609 137.23047 C 160.38853 137.38563 159.94761 137.59286 159.50781 137.79297 C 159.06801 137.99308 158.62995 138.18579 158.28125 138.3125 C 158.10691 138.3759 157.95526 138.42231 157.83398 138.44531 C 157.77338 138.45711 157.71941 138.46294 157.67383 138.46094 C 157.62823 138.45894 157.58923 138.44953 157.55859 138.42383 C 157.52799 138.39813 157.51195 138.36103 157.50195 138.31641 C 157.49295 138.27181 157.48923 138.21791 157.49023 138.15625 C 157.49223 138.03283 157.51222 137.87597 157.54492 137.69336 C 157.61022 137.32816 157.72555 136.86399 157.84766 136.39648 C 157.96976 135.92898 158.09765 135.45692 158.18945 135.07812 C 158.23545 134.88873 158.27305 134.72211 158.29492 134.5918 C 158.31692 134.46149 158.3215 134.36438 158.3125 134.33008 C 158.3045 134.29578 158.254 134.21047 158.17383 134.10547 C 158.09363 134.00047 157.9845 133.87067 157.85547 133.72461 C 157.59741 133.43249 157.26372 133.07714 156.9375 132.7207 C 156.61127 132.36426 156.29271 132.00731 156.06445 131.71484 C 155.95032 131.5686 155.85813 131.43833 155.79883 131.33008 C 155.76913 131.27598 155.74843 131.22759 155.73633 131.18359 C 155.72423 131.13959 155.71938 131.0995 155.73438 131.0625 C 155.74937 131.0254 155.78091 130.99771 155.82031 130.97461 C 155.85971 130.95141 155.90971 130.93226 155.96875 130.91406 C 156.08672 130.87766 156.24202 130.84767 156.42578 130.82227 C 156.7933 130.77147 157.26959 130.73726 157.75195 130.70898 C 158.23431 130.68068 158.72267 130.65861 159.11133 130.62891 C 159.30564 130.61411 159.47475 130.59753 159.60547 130.57812 C 159.73618 130.55872 159.83132 130.53247 159.86133 130.51367 C 159.89133 130.49497 159.95613 130.42128 160.03125 130.3125 C 160.10635 130.20375 160.19592 130.05848 160.29492 129.89062 C 160.493 129.55494 160.72862 129.12746 160.9668 128.70703 C 161.20499 128.28664 161.44668 127.87388 161.6543 127.56641 C 161.75811 127.41268 161.8529 127.28521 161.9375 127.19531 C 161.9798 127.15041 162.0185 127.11491 162.05664 127.08984 C 162.09484 127.06474 162.13394 127.04973 162.17383 127.05273 z M 67.613281 127.62305 C 67.418374 127.62705 67.22895 127.68825 67.068359 127.79883 C 67.068359 127.79883 60.487649 132.29524 53.949219 137.0625 C 50.680009 139.44613 47.422185 141.895 44.984375 143.90039 C 43.765475 144.90309 42.752531 145.79061 42.025391 146.53125 C 41.661811 146.90157 41.371441 147.23143 41.144531 147.56055 C 40.917611 147.88967 40.631076 148.19838 40.759766 148.88477 C 41.028506 150.31806 42.023189 151.63702 43.292969 152.66406 C 44.562759 153.69109 46.171037 154.4435 47.841797 154.17969 C 48.455977 154.08269 49.059285 153.81474 50.046875 153.39648 C 51.034465 152.97823 52.28825 152.41079 53.71875 151.74219 C 56.57973 150.40499 60.145133 148.6648 63.632812 146.9375 C 70.608172 143.48287 77.267578 140.07812 77.267578 140.07812 C 78.040008 139.68254 77.974983 138.55784 77.162109 138.25391 C 74.976849 137.43601 72.5071 136.1635 71.25 134.60156 C 71.2461 134.59656 71.242181 134.59259 71.238281 134.58789 C 69.889381 132.9692 68.751826 131.90422 68.628906 128.58594 C 68.609506 128.04176 68.157722 127.61344 67.613281 127.62305 z M 127.24219 148.21484 C 127.25849 148.21464 127.27472 148.21464 127.29102 148.21484 C 128.39384 148.2157 129.28732 149.11007 129.28711 150.21289 C 129.28733 151.31571 128.39384 152.21008 127.29102 152.21094 C 126.18744 152.21115 125.29275 151.31647 125.29297 150.21289 C 125.29244 149.12811 126.15773 148.24115 127.24219 148.21484 z M 98.638672 148.80469 C 98.654942 148.80449 98.67123 148.80449 98.6875 148.80469 C 99.790317 148.80448 100.68469 149.69796 100.68555 150.80078 C 100.68576 151.90435 99.791074 152.79904 98.6875 152.79883 C 97.583922 152.79905 96.689243 151.90436 96.689453 150.80078 C 96.689981 149.71675 97.554963 148.83098 98.638672 148.80469 z M 65.650391 154.79883 C 65.768901 154.78223 65.897634 154.80477 66.021484 154.85938 L 71.025391 157.07812 C 71.273091 157.18796 71.436841 157.39773 71.400391 157.6582 L 68.322266 180.95508 C 68.311366 181.06888 68.295338 181.10109 68.273438 181.15039 C 68.200238 181.31549 68.048471 181.3481 67.800781 181.23828 L 63.705078 179.42188 C 63.523438 179.34137 63.44507 179.2067 63.46875 179.01953 L 63.988281 175.75391 C 64.011981 175.56685 63.944986 175.49654 63.697266 175.38672 L 57.339844 172.56836 C 57.075634 172.45076 56.993854 172.45454 56.871094 172.59766 L 54.798828 175.17578 C 54.676068 175.31856 54.524505 175.35054 54.359375 175.27734 L 50.28125 173.46875 C 50.03355 173.35892 49.938489 173.21789 50.011719 173.05273 C 50.048319 172.97023 50.147167 172.83538 50.216797 172.76758 C 50.255297 172.72538 65.339844 154.97266 65.339844 154.97266 C 65.424144 154.87173 65.531871 154.81544 65.650391 154.79883 z M 118.12891 157.53906 C 118.32257 157.49456 118.48713 157.64236 118.51953 157.7832 C 118.53893 157.8712 118.54602 157.98021 118.54102 158.03711 L 115.0293 170.26172 C 114.9974 170.36191 114.96389 170.46074 114.99219 170.58398 C 115.02049 170.70721 115.11039 170.77964 115.20508 170.86914 L 123.31641 179.79297 C 123.41111 179.88247 123.44074 179.93143 123.46094 180.01953 C 123.50544 180.21315 123.33045 180.34604 123.08398 180.40234 L 118.47266 181.46094 C 118.08535 181.54984 117.87318 181.43314 117.71094 181.21094 L 113.9707 176.54688 C 113.65025 176.12013 112.72933 174.9406 112.38867 174.42578 L 112.2832 174.44922 C 112.51372 175.45269 112.3214 177.27708 111.80078 179.28711 L 110.91406 182.77148 C 110.84746 183.04632 110.69005 183.24899 110.30273 183.33789 L 105.76172 184.38086 C 105.48004 184.44556 105.33552 184.38686 105.29102 184.19336 C 105.27082 184.10526 105.28205 183.99081 105.31445 183.89062 L 108.87305 171.54492 C 108.91525 171.4055 108.90887 171.29503 108.88867 171.20703 C 108.86037 171.08381 108.80557 171.00519 108.73242 170.92969 L 100.69922 162.09766 C 100.65192 162.05296 100.61412 161.96887 100.58984 161.86328 C 100.55744 161.72239 100.66575 161.55057 100.8418 161.50977 L 105.38281 160.4668 C 105.68209 160.3981 105.87918 160.44589 106.0293 160.61523 L 109.83203 165.22656 C 110.15248 165.6533 111.17691 167.04961 111.51758 167.56445 L 111.62305 167.54102 C 111.21555 166.17046 111.42878 165.08228 111.96484 162.49414 L 112.85938 159.04688 C 112.91648 158.81134 113.11289 158.69137 113.35938 158.63477 L 118.12891 157.53906 z M 78.388672 160.00977 L 82.828125 160.44531 C 83.025875 160.46471 83.143387 160.56688 83.179688 160.75195 L 85.923828 177.19336 L 85.9375 177.97461 L 86.548828 178.03516 L 86.714844 177.27148 L 92.582031 161.67383 C 92.653631 161.49948 92.78898 161.42175 92.96875 161.43945 L 97.515625 161.88672 C 97.785275 161.91312 97.920044 162.01754 97.902344 162.19727 C 97.895344 162.26917 97.847138 162.39136 97.798828 162.51367 L 89.03125 184.17773 C 88.93465 184.42251 88.689582 184.52425 88.419922 184.49805 L 83.007812 183.9668 C 82.738152 183.9404 82.516 183.79192 82.46875 183.5332 L 77.982422 160.44141 C 77.969722 160.38571 77.961397 160.29413 77.966797 160.24023 C 77.984397 160.06046 78.119002 159.98337 78.388672 160.00977 z M 65.712891 161.48047 L 65.330078 162.12109 L 60.251953 168.40625 C 60.107223 168.59893 60.130494 168.76665 60.427734 168.89844 L 64.308594 170.61914 C 64.605834 170.75094 64.764897 170.66243 64.810547 170.42578 L 66.074219 162.45117 L 66.291016 161.73633 L 65.712891 161.48047 z "
+       transform="translate(0,783.07098)" />
+  </g>
+</svg>
