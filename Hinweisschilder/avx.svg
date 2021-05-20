@@ -3934,7 +3934,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4268,14 +4268,14 @@
          id="tspan4719">audio and video equipment!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#ff8f30;fill-opacity:1;stroke:none;"
        x="397.55353"
        y="1245.1101"
        id="text1673"><tspan
          sodipodi:role="line"
          x="397.55353"
          y="1245.1101"
-         style="font-size:26.6667px;text-align:center;text-anchor:middle;fill:#008400;fill-opacity:1"
+         style="font-size:26.6667px;text-align:center;text-anchor:middle;fill:#ff8f30;fill-opacity:1;"
          id="tspan4726">Finger weg von unserer Audio- und Videotechnik!</tspan></text>
     <text
        xml:space="preserve"
@@ -4931,48 +4931,44 @@
        xml:space="preserve"
        id="text2577"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect2579);" />
-    <g
-       id="g4744"
-       transform="translate(-227.68838,547.30065)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="772.64783"
-         y="1126.394"
-         id="text1707"><tspan
-           sodipodi:role="line"
-           id="tspan1705"
-           x="772.64783"
-           y="1126.394"
-           style="font-size:26.6667px;text-align:end;text-anchor:end">Read our xhain space rules in the wiki:</tspan><tspan
-           sodipodi:role="line"
-           x="772.64783"
-           y="1159.7274"
-           style="font-size:16px;text-align:end;text-anchor:end"
-           id="tspan1709" /></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="422.12085"
-         y="1159.7886"
-         id="text6477"><tspan
-           sodipodi:role="line"
-           id="tspan6475"
-           x="422.12085"
-           y="1159.7886"
-           style="font-size:16px;fill:#008400;fill-opacity:1">/de/</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="257.66061"
-         y="1146.644"
-         id="text2585"><tspan
-           sodipodi:role="line"
-           id="tspan2583"
-           x="257.66061"
-           y="1146.644"
-           style="font-size:16px">https://wiki.x-hain.de/en/xHain/spacerules</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="544.95947"
+       y="1673.6947"
+       id="text1707"><tspan
+         sodipodi:role="line"
+         id="tspan1705"
+         x="544.95947"
+         y="1673.6947"
+         style="font-size:26.6667px;text-align:end;text-anchor:end">Read our xhain space rules in the wiki:</tspan><tspan
+         sodipodi:role="line"
+         x="544.95947"
+         y="1707.0281"
+         style="font-size:16px;text-align:end;text-anchor:end"
+         id="tspan1709" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ff8f30;fill-opacity:1;stroke:none;"
+       x="194.43246"
+       y="1707.0892"
+       id="text6477"><tspan
+         sodipodi:role="line"
+         id="tspan6475"
+         x="194.43246"
+         y="1707.0892"
+         style="font-size:16px;fill:#ff8f30;fill-opacity:1;">/de/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="29.972235"
+       y="1693.9447"
+       id="text2585"><tspan
+         sodipodi:role="line"
+         id="tspan2583"
+         x="29.972235"
+         y="1693.9447"
+         style="font-size:16px">https://wiki.x-hain.de/en/xHain/spacerules</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -4987,32 +4983,28 @@
          x="197.17735"
          y="1833.2407"
          id="tspan4937">read our workarea specific rules here:</tspan></text>
-    <g
-       id="g2616"
-       transform="translate(39.52641,646.72513)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="323.14426"
-         y="1220.2531"
-         id="text6477-3"><tspan
-           sodipodi:role="line"
-           id="tspan6475-6"
-           x="323.14426"
-           y="1220.2531"
-           style="font-size:16px;fill:#008400;fill-opacity:1">/de/</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
-         x="158.68297"
-         y="1207.1052"
-         id="text2593"><tspan
-           sodipodi:role="line"
-           id="tspan2591"
-           x="158.68297"
-           y="1207.1052"
-           style="font-size:16px">https://wiki.x-hain.de/en/xHain/rooms-and-equipment</tspan></text>
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#ff8f30;fill-opacity:1;stroke:none;"
+       x="362.67065"
+       y="1866.9781"
+       id="text6477-3"><tspan
+         sodipodi:role="line"
+         id="tspan6475-6"
+         x="362.67065"
+         y="1866.9781"
+         style="font-size:16px;fill:#ff8f30;fill-opacity:1;">/de/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="198.20938"
+       y="1853.8303"
+       id="text2593"><tspan
+         sodipodi:role="line"
+         id="tspan2591"
+         x="198.20938"
+         y="1853.8303"
+         style="font-size:16px">https://wiki.x-hain.de/en/xHain/rooms-and-equipment</tspan></text>
     <image
        width="153.5598"
        height="155.01306"
@@ -5021,5 +5013,16 @@
        id="image2326"
        x="33.372807"
        y="1719.7076" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;line-height:1.25;font-family:sans-serif;fill:#ff8f30;fill-opacity:1"
+       x="438.40622"
+       y="1555.2317"
+       id="text3219"><tspan
+         sodipodi:role="line"
+         id="tspan3217"
+         x="438.40622"
+         y="1555.2317"
+         style="font-size:24px">Finger weg vom Mischpult!</tspan></text>
   </g>
 </svg>
