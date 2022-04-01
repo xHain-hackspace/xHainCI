@@ -35,7 +35,7 @@
      inkscape:snap-midpoints="true"
      inkscape:zoom="0.56122583"
      inkscape:cx="560.38048"
-     inkscape:cy="742.1255"
+     inkscape:cy="556.81685"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
      inkscape:window-x="0"
@@ -1364,13 +1364,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.947px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.298673"
-       x="26.228266"
-       y="94.787643"
+       x="27.289404"
+       y="94.170174"
        id="text2894-6"><tspan
          sodipodi:role="line"
          id="tspan68238"
-         x="26.228266"
-         y="94.787643"
+         x="27.289404"
+         y="94.170174"
          style="stroke-width:0.298673">If you want something done</tspan></text>
     <text
        xml:space="preserve"
@@ -1408,12 +1408,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.9779px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.87444"
-       x="23.397617"
+       x="21.100378"
        y="143.80841"
        id="text72884"><tspan
          sodipodi:role="line"
          id="tspan72882"
-         x="23.397617"
+         x="21.100378"
          y="143.80841"
          style="stroke-width:1.87444">do it </tspan></text>
     <text
@@ -2217,8 +2217,8 @@
     </g>
     <g
        style="shape-rendering:crispEdges"
-       id="g154183"
-       transform="matrix(1.7216802,0,0,1.7216802,36.662156,232.12402)">
+       id="g157121"
+       transform="matrix(1.5674523,0,0,1.5674523,32.358869,236.3045)">
       <rect
          id="qr background"
          fill-opacity="1"
@@ -2232,7 +2232,7 @@
          fill="#000000"
          id="qr dark pixels"
          fill-rule="evenodd"
-         d="m 8,0 h 2 V 1 H 8 Z m 6,0 h 1 v 2 h -1 v 1 h 2 v 1 h 1 V 5 H 15 V 4 H 13 V 3 H 12 V 5 H 10 V 6 H 9 V 5 H 8 V 2 h 1 v 1 h 1 v 1 h 1 V 2 h 2 V 1 h 1 z m 2,0 h 1 v 1 h 1 V 0 h 3 V 1 H 19 V 3 H 18 V 2 h -2 z m 4,2 h 1 v 1 h -1 z m -3,1 h 1 v 1 h -1 z m 2,0 h 1 v 1 h 1 V 7 H 20 V 6 H 19 V 7 H 18 V 6 H 17 V 5 h 2 z m -7,2 h 3 V 7 H 14 V 6 H 13 V 7 H 12 Z M 8,6 H 9 V 7 H 8 Z m 2,0 h 1 v 1 h -1 z m 6,0 h 1 V 7 H 16 Z M 9,7 h 1 V 8 H 9 Z m 2,0 h 1 v 1 h -1 z m 4,0 h 1 v 1 h -1 z m 2,0 h 1 v 2 h 1 V 8 h 1 v 1 h 1 v 3 h -3 v -2 h -1 v 2 H 16 V 8 h 1 z m 2,3 h 1 v 1 H 19 Z M 0,8 h 4 v 1 h 2 v 1 H 7 V 9 H 8 V 8 h 1 v 1 h 1 v 1 H 9 v 2 H 7 V 11 H 6 v 1 h 1 v 1 H 3 v 2 H 2 v 3 H 1 V 17 H 0 V 14 H 1 V 12 H 0 V 11 H 1 V 9 H 0 Z m 2,1 h 1 v 2 h 1 v 1 H 2 Z M 6,8 H 7 V 9 H 6 Z m 8,0 h 1 v 1 h -1 z m 7,0 h 1 v 1 h -1 z m 3,0 h 3 v 1 h -2 v 2 h 1 v 1 h 1 v 1 H 25 V 12 H 22 V 9 h 2 z m 4,0 h 1 v 2 H 28 Z M 13,9 h 1 v 1 h -1 z m 13,1 h 2 v 1 h -2 z m -15,1 h 3 v 1 h 2 v 1 h 1 v 2 h -1 v -1 h -1 v 1 h 1 v 1 h -2 v -1 h -1 v 1 h -1 v -2 h 2 v -1 h -1 v -1 h -1 v 2 h -2 v -1 h 1 z m 17,0 h 1 v 1 H 28 Z M 9,12 h 1 v 1 H 9 Z m 8,0 h 1 v 1 h -1 z m 4,0 h 1 v 1 H 21 Z M 7,13 h 2 v 2 H 6 v 1 H 5 V 15 H 4 v -1 h 3 z m 11,0 h 2 v 2 h 1 v 1 h 1 v 1 h -4 v 1 h -1 v -1 h -1 v -1 h 2 v -1 h 1 v -1 h -1 z m 4,0 h 2 v 2 h -1 v -1 h -1 z m 5,0 h 2 v 2 h -1 v 3 h -1 v 3 h 2 v 1 h -1 v 1 h 1 v 4 h -1 v -2 h -1 v 2 h -1 v -1 h -2 v 1 h 2 v 1 h -1 v 1 h -2 v -4 h 2 v -1 h 2 v -2 h -1 v 1 h -1 v -3 h 1 v -1 h -1 v -1 h 1 v -1 h 1 v -2 h -2 v -1 h 2 z m -6,1 h 1 v 1 H 21 Z M 9,15 h 2 v 1 H 9 Z m -6,1 h 1 v 1 H 3 Z m 3,0 h 3 v 1 h 2 v 1 h 1 v -1 h 1 v -1 h 1 v 1 h 2 v 1 h 1 v 1 h -1 v 1 h -1 v -2 h -1 v 1 h -1 v 1 h 1 v 3 h -3 v 2 h 1 v -1 h 1 v 2 h -1 v 2 H 11 V 26 H 9 v 3 H 8 v -4 h 1 v -1 h 1 V 23 H 9 v -1 h 1 v -2 h 2 V 19 H 6 V 18 H 7 V 17 H 6 Z m 5,5 h 1 v 1 h -1 z m 0,-5 h 1 v 1 h -1 z m 12,0 h 2 v 1 h -1 v 2 h 1 v 1 h -2 v -1 h -2 v -1 h 2 z M 4,17 h 1 v 1 H 4 Z m -4,1 h 1 v 1 H 0 Z m 2,0 h 2 v 1 h 1 v 1 h 4 v 2 H 8 V 21 H 4 V 20 H 2 Z m 16,0 h 1 v 1 h -1 z m -1,1 h 1 v 1 h 1 v 2 h -1 v -1 h -1 z m 2,0 h 1 v 1 H 19 Z M 1,20 h 1 v 1 H 1 Z m 15,1 h 1 v 1 h 1 v 1 h -2 z m 3,1 h 1 v 1 h -1 z m -4,1 h 1 v 1 h -1 z m 3,0 h 1 v 1 h -1 z m -4,1 h 1 v 1 h 1 v 1 h -2 z m 3,0 h 1 v 1 h -1 z m 2,1 h 3 v 1 h -1 v 1 h 1 v 2 h -4 v -1 h 2 v -1 h -1 z m -6,1 h 1 v 1 h -1 z m 3,0 h 1 v 2 h -1 z m -2,1 h 1 v 1 h 1 v 1 h -2 z m 13,0 h 1 v 2 h -1 z m -15,1 h 1 v 1 h -1 z" />
+         d="m 8,0 h 2 V 1 H 8 Z m 8,0 h 4 v 1 h -1 v 1 h 2 V 3 H 18 V 1 h -1 v 1 h -1 z m -3,1 h 2 v 1 h 1 V 3 H 15 V 4 H 13 V 3 H 12 V 5 H 10 V 6 H 9 V 5 H 8 V 2 h 1 v 1 h 1 v 1 h 1 V 2 h 2 z m 4,2 h 1 V 5 H 15 V 4 h 2 z m 2,1 h 1 v 2 h -1 v 2 h 1 v 1 h 1 V 8 h 1 v 1 h 1 v 2 h -2 v 1 h -1 v -2 h -1 v 1 H 18 V 10 H 17 V 9 H 14 V 6 h 1 v 2 h 1 V 6 h 1 v 1 h 1 V 5 h 1 z m -7,1 h 1 V 7 H 12 Z M 8,6 H 9 V 7 H 8 Z m 2,0 h 1 v 1 h -1 z m 10,0 h 1 V 7 H 20 Z M 9,7 h 1 V 8 H 9 Z m 2,0 h 1 V 8 H 11 Z M 0,8 h 4 v 1 h 1 v 1 H 4 v 1 h 1 v -1 h 2 v 1 H 6 v 1 H 4 v 1 H 2 V 12 H 3 V 10 H 1 V 9 H 0 Z M 6,8 H 7 V 9 H 6 Z M 8,8 H 9 V 9 H 8 Z m 16,0 h 3 v 1 h -2 v 1 h -1 z m 4,0 h 1 v 2 H 28 Z M 7,9 h 1 v 1 H 7 Z m 2,0 h 1 v 1 H 9 Z m -1,1 h 1 v 1 H 8 Z m 6,0 h 1 v 1 h 1 v 1 h -1 v 1 h 2 v 1 h 2 v -1 h -2 v -1 h 3 v 1 h 3 v 1 h -3 v 1 h 2 v 1 h -1 v 3 h 1 v 1 h -2 v -3 h -1 v 2 h -1 v -1 h -1 v -1 h 1 v -1 h 1 v -1 h -2 v 1 h -3 v -1 h 2 v -1 h -2 v -1 h -1 v -1 h -1 v 2 h -2 v -1 h 1 v -2 h 3 z m 2,0 h 1 v 1 h -1 z m 10,0 h 2 v 1 H 26 Z M 0,11 h 1 v 1 H 0 Z m 24,0 h 1 v 1 h -1 z m 4,0 h 1 v 1 H 28 Z M 6,12 h 2 v 2 h 2 v 2 h 2 v 1 h -1 v 1 H 9 V 17 H 8 V 15 H 6 v 1 h 1 v 1 H 6 v 1 H 5 V 17 H 4 v 2 H 3 v 2 H 1 V 20 H 2 V 18 H 1 V 17 H 3 V 16 H 4 V 15 H 5 V 14 H 4 v -1 h 2 v 1 H 7 V 13 H 6 Z m 3,0 h 1 v 1 H 9 Z m 16,0 h 2 v 1 h 2 v 2 h -1 v 3 h -1 v 3 h 2 v 1 h -1 v 1 h 1 v 4 h -1 v -2 h -2 v -1 h 1 v -2 h -1 v 2 h -1 v -4 h 1 v -2 h -1 v -1 h -1 v 1 h 1 v 2 h -2 v -1 h -1 v -1 h 1 v -2 h 3 v 1 h 1 V 15 H 26 V 13 H 25 Z M 1,13 h 1 v 1 h 1 v 2 H 2 V 15 H 1 v 1 H 0 v -2 h 1 z m 11,1 h 1 v 2 h -1 z m 11,0 h 2 v 1 h -2 z m -10,2 h 1 v 1 h -1 z m -6,1 h 1 v 1 H 7 Z m 5,0 h 1 v 3 h 1 v 3 h -3 v 2 H 10 V 23 H 9 V 22 H 8 V 21 H 9 V 20 H 7 v -1 h 1 v -1 h 1 v 1 h 1 v 3 h 2 v -1 h -1 v -1 h 1 v -1 h -1 v -1 h 1 z m 2,0 h 2 v 1 h 1 v 1 h 1 v 1 h -1 v 1 H 15 V 18 H 14 Z M 0,18 h 1 v 1 H 0 Z m 6,0 h 1 v 1 H 6 Z m -2,1 h 1 v 1 H 4 Z m 2,1 h 1 v 1 H 6 Z m 12,0 h 1 v 2 h -1 v 1 h -1 v -2 h 1 z m 1,2 h 1 v 1 h -1 z m -4,1 h 1 v 1 h -1 z m -3,1 h 1 v 2 h -1 v 2 H 11 V 27 H 9 v 2 H 8 v -4 h 2 v 1 h 1 v -1 h 1 z m 2,0 h 1 v 1 h 2 v -1 h 1 v 2 h -4 z m 5,1 h 3 v 1 h -2 v 1 h -1 z m 4,0 h 3 v 1 h -2 v 2 h -3 v 1 h -3 v -1 h 2 v -1 h 3 z m -10,1 h 1 v 1 h -1 z m 13,0 h 1 v 1 h -1 z m -12,1 h 2 v 2 h -2 z m 11,0 h 1 v 2 h -1 z m 2,0 h 1 v 2 h -1 z m -15,1 h 1 v 1 h -1 z" />
       <path
          id="qr squares"
          d="M 0,0 H 7 V 0 0 7 7 7 H 0 V 7 7 Z M 1,1 H 6 V 1 1 6 6 6 H 1 V 6 6 Z M 2,2 H 5 V 2 2 5 5 5 H 2 V 5 5 Z M 22,0 h 7 v 0 0 7 0 0 h -7 v 0 0 z m 1,1 h 5 v 0 0 5 0 0 h -5 v 0 0 z m 1,1 h 3 V 2 2 5 5 5 H 24 V 5 5 Z M 0,22 h 7 v 0 0 7 0 0 H 0 v 0 0 z m 1,1 h 5 v 0 0 5 0 0 H 1 v 0 0 z m 1,1 h 3 v 0 0 3 0 0 H 2 v 0 0 z m 18,-4 h 5 v 0 0 5 0 0 h -5 v 0 0 z m 1,1 h 3 v 0 0 3 0 0 h -3 v 0 0 z m 1,1 h 1 v 0 0 1 0 0 h -1 v 0 0 z"
