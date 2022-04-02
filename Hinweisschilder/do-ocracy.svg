@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="420mm"
+   height="594mm"
+   viewBox="0 0 420 594"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="do-ocracy.svg"
+   inkscape:export-filename="/media/oliver/CSV/oliver.pdf"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,24 +27,40 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:snap-page="false"
-     showguides="false"
-     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:snap-text-baseline="false"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-grids="false"
      inkscape:snap-bbox="true"
      inkscape:snap-to-guides="false"
-     inkscape:snap-midpoints="true"
-     inkscape:zoom="0.56122583"
-     inkscape:cx="560.38048"
-     inkscape:cy="556.81685"
+     inkscape:snap-midpoints="false"
+     inkscape:zoom="0.21591436"
+     inkscape:cx="775.77054"
+     inkscape:cy="1405.6499"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="true">
+    <sodipodi:guide
+       position="105,421.91875"
+       orientation="-1,0"
+       id="guide157682"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <marker
@@ -1318,151 +1337,145 @@
          style="fill:#ffc400;fill-rule:evenodd;stroke:#ffc400;stroke-width:1pt"
          transform="matrix(0.2,0,0,0.2,1.48,0.2)" />
     </marker>
-    <path
+    <circle
        transform="matrix(0.8755829,0,0,0.8755829,152.4506,-680.83707)"
-       d="m 1260,777.58148 a 584.28571,584.28571 0 1 1 -1168.571411,0 584.28571,584.28571 0 1 1 1168.571411,0 z"
-       sodipodi:ry="584.28571"
-       sodipodi:rx="584.28571"
-       sodipodi:cy="777.58148"
-       sodipodi:cx="675.71429"
        id="path6572"
        style="fill:none;stroke:none"
-       sodipodi:type="arc" />
-    <path
+       cx="675.71429"
+       cy="777.58148"
+       r="584.28571" />
+    <circle
        transform="matrix(-1.1162727,-0.04357729,-0.04357729,1.1162727,1532.2608,-838.54723)"
-       d="m 1260,777.58148 a 584.28571,584.28571 0 1 1 -1168.571411,0 584.28571,584.28571 0 1 1 1168.571411,0 z"
-       sodipodi:ry="584.28571"
-       sodipodi:rx="584.28571"
-       sodipodi:cy="777.58148"
-       sodipodi:cx="675.71429"
        id="path6572-9"
        style="fill:none;stroke:none"
-       sodipodi:type="arc" />
+       cx="675.71429"
+       cy="777.58148"
+       r="584.28571" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#002225;fill-opacity:1;stroke-width:0.343165"
+       style="fill:#002225;fill-opacity:1;stroke-width:0.68633"
        id="rect24411"
-       width="210"
-       height="297"
+       width="420"
+       height="594"
        x="2.8421709e-14"
        y="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:43.4705px;line-height:1.25;font-family:sans-serif;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.08676"
-       x="8.0919495"
-       y="40.801407"
+       style="font-style:normal;font-weight:normal;font-size:87.1298px;line-height:1.25;font-family:sans-serif;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:2.17825"
+       x="16.179291"
+       y="81.723061"
        id="text2894"><tspan
          sodipodi:role="line"
          id="tspan2892"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.4705px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke-width:1.08676"
-         x="8.0919495"
-         y="40.801407">XHAIN IS A </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.1298px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke-width:2.17825"
+         x="16.179291"
+         y="81.723061">XHAIN IS A </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.947px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.298673"
-       x="27.289404"
-       y="94.170174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.8078px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.59519"
+       x="54.585548"
+       y="177.70204"
        id="text2894-6"><tspan
          sodipodi:role="line"
          id="tspan68238"
-         x="27.289404"
-         y="94.170174"
-         style="stroke-width:0.298673">If you want something done</tspan></text>
+         x="54.585548"
+         y="177.70204"
+         style="stroke-width:0.59519">If you want something done</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:38.7442px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.968606"
-       x="5.9257278"
-       y="70.666901"
+       style="font-style:normal;font-weight:normal;font-size:77.4951px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.93738"
+       x="10.94555"
+       y="136.90588"
        id="text2894-5"><tspan
          sodipodi:role="line"
          id="tspan2892-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7442px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1;stroke-width:0.968606"
-         x="5.9257278"
-         y="70.666901">DO-OCRACY</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.4951px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1;stroke-width:1.93738"
+         x="10.94555"
+         y="136.90588">DO-OCRACY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:8.29818px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.207454"
-       x="11.793388"
-       y="224.73549"
+       style="font-style:normal;font-weight:normal;font-size:16.5964px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.414908"
+       x="71.410675"
+       y="436.77252"
        id="text2894-5-6"><tspan
          sodipodi:role="line"
          id="tspan2892-7-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.29818px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1;stroke-width:0.207454"
-         x="11.793388"
-         y="224.73549">wiki.x-hain.de/en/xHain/do-ocracy</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5964px;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e0e0e0;fill-opacity:1;stroke-width:0.414908"
+         x="71.410675"
+         y="436.77252">wiki.x-hain.de/en/xHain/do-ocracy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:9.98291px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.249573"
-       x="16.997147"
-       y="132.48755"
+       style="font-style:normal;font-weight:normal;font-size:19.9659px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499146"
+       x="33.994293"
+       y="264.97507"
        id="text43132"><tspan
          sodipodi:role="line"
          id="tspan43130"
-         style="stroke-width:0.249573"
-         x="16.997147"
-         y="132.48755" /></text>
+         style="stroke-width:0.499146"
+         x="33.994293"
+         y="264.97507" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.9779px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.87444"
-       x="21.100378"
-       y="143.80841"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:149.956px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:3.74888"
+       x="42.200756"
+       y="277.03363"
        id="text72884"><tspan
          sodipodi:role="line"
          id="tspan72882"
-         x="21.100378"
-         y="143.80841"
-         style="stroke-width:1.87444">do it </tspan></text>
+         x="42.200756"
+         y="277.03363"
+         style="stroke-width:3.74888">do iT </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4633px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.486582"
-       x="25.538252"
-       y="159.53635"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7352px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.96838"
+       x="50.973843"
+       y="308.3129"
        id="text82420"><tspan
          sodipodi:role="line"
          id="tspan82418"
-         x="25.538252"
-         y="159.53635"
-         style="stroke-width:0.486582">but remember to </tspan></text>
+         x="50.973843"
+         y="308.3129"
+         style="stroke-width:0.96838">but remember to </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4012px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.58503"
-       x="26.545158"
-       y="193.60461"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.8802px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.172"
+       x="51.93956"
+       y="377.64984"
        id="text86090"><tspan
          sodipodi:role="line"
          id="tspan86088"
-         x="26.545158"
-         y="193.60461"
-         style="stroke-width:0.58503">to each other</tspan></text>
+         x="51.93956"
+         y="377.64984"
+         style="stroke-width:1.172">to each other</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6747px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.541868"
-       x="27.011013"
-       y="208.55417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.5804px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.08951"
+       x="52.297684"
+       y="408.59152"
        id="text88268"><tspan
          sodipodi:role="line"
          id="tspan88266"
-         x="27.011013"
-         y="208.55417"
-         style="stroke-width:0.541868">while doing so.</tspan></text>
+         x="52.297684"
+         y="408.59152"
+         style="stroke-width:1.08951">while doing so.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.1116px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:0.627794"
-       x="25.382603"
-       y="177.14714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.159px;line-height:1.25;font-family:'Politics Head';-inkscape-font-specification:'Politics Head, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aed919;fill-opacity:1;stroke:none;stroke-width:1.25398"
+       x="50.081451"
+       y="343.92798"
        id="text118442"><tspan
          sodipodi:role="line"
          id="tspan118440"
-         x="25.382603"
-         y="177.14714"
-         style="stroke-width:0.627794">be excellent </tspan></text>
+         x="50.081451"
+         y="343.92798"
+         style="stroke-width:1.25398">be excellent </tspan></text>
     <g
        id="g4002"
-       transform="matrix(0.05716597,0,0,0.05716597,128.43865,225.51266)">
+       transform="matrix(0.11433194,0,0,0.11433194,255.44991,446.68034)">
       <circle
          transform="matrix(1.3480103,0,0,1.3480103,625.08603,-119.55019)"
          id="path4602"
@@ -2218,7 +2231,7 @@
     <g
        style="shape-rendering:crispEdges"
        id="g157121"
-       transform="matrix(1.5674523,0,0,1.5674523,32.358869,236.3045)">
+       transform="matrix(3.1349046,0,0,3.1349046,63.290336,464.37568)">
       <rect
          id="qr background"
          fill-opacity="1"
