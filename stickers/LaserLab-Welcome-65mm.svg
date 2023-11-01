@@ -13,10 +13,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
-   sodipodi:docname="Property-laserlab-65mm.svg"
-   inkscape:export-filename="./xHain_logo3_rev2_large.png"
-   inkscape:export-xdpi="1368.9301"
-   inkscape:export-ydpi="1368.9301">
+   sodipodi:docname="LaserLab-Welcome-65mm.svg"
+   inkscape:export-filename="./LaserLab-welcome-to.png"
+   inkscape:export-xdpi="235.37"
+   inkscape:export-ydpi="235.37">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -2655,7 +2655,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
