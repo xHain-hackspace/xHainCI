@@ -16,5 +16,5 @@ Readability of the pillowhead font is limited, but xHain is stated on one of the
 
 ## 36C3 - Resource Exhaustion
 Used here is the hope theme, allowing to use the green and some leaves in the sticker design. The big letters were generated with the official generator and then imported and spread in the hexagon.
-![36C3 inspired xHain Logo Sticker in hexagon shape](https://github.com/xHain-hackspace/xHainCI/blob/master/stickers/HEX/preview/38C3.png?raw=true)
+![36C3 inspired xHain Logo Sticker in hexagon shape](https://github.com/xHain-hackspace/xHainCI/blob/master/stickers/HEX/preview/36C3.png?raw=true)
 
